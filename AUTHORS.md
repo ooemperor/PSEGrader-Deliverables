@@ -1,6 +1,6 @@
 # Authors
 ## **Luca D'Arcangelo**
-**Role:** Master-Tracker
+**Role:** Master-Tracker and Chief Delivery Officer
 
 **Github Username:** DArLuca
 
@@ -20,9 +20,3 @@
 
 **E-Mail:** ramon.naef@students.unibe.ch
 
-## **Manuel Zenklusen**
-**Role:** Chief Delivery Officer
-
-**Github Username:** TonyMalony93
-
-**E-Mail:** manuel.zenklusen@students.unibe.ch
