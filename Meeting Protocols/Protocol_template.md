@@ -16,7 +16,6 @@ Entwicklerteam:
 - Luca D'Arcangelo
 - Michael Kaiser
 - Ramon Näf
-- Manuel Zenklusen
 
 **Sitzungsleiter:**
 
