@@ -23,9 +23,9 @@ Entwicklerteam:
 **Protkollführung:**
 
 ## Traktanden
-- 1
-- 2
-- 3
+1. 
+2. 
+3. 
 
 
 ## Beschlüsse
