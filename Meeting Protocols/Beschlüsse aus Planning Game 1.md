@@ -25,6 +25,7 @@ Syntax
 - (1h) eigenes Timetracking erstellen in md Sheet pro Team-Mitglied. (4.3)
 - (2) erste gedanken zum Testing machen. (einlesen in die bestehenden Tests, Gedanken zum Frontendtesting machen, Überlegungen zum Beginn Testdoku)  (13.3)
 - (2h) Upload der Daten, welche vom Kunden geliefert werden bezüglich der Dokumente/Scripts der Übungen. 
+- (1h) Mail and Dr. Kaspar wegen Test-Aufgaben (7.3)
 
 
 ## Luca
