@@ -9,3 +9,6 @@
 ## 04.03.2023
 1h Einarbeit in CMS
 2h Arbeit an Deliverables und Präsentation. 
+
+## 06.03.2023
+4h Einarbeiten in den Server und Versuch der Installation von CMS. (Leider noch kein Erfolg)
