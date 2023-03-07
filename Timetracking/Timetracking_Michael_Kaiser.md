@@ -14,4 +14,4 @@
 4h Einarbeiten in den Server und Versuch der Installation von CMS. (Leider noch kein Erfolg)
 
 ## 07.03.2023
-6h Einarbeiten in die Server und erste Installation auf einem privaten Server. 
+8h Einarbeiten in die Server und erste Installation auf einem privaten Server. 
