@@ -1,4 +1,4 @@
-# Meeting Protocol template
+# Meeting Protocol Assistenten
 
 **Datum:** 01.03.2023
 
