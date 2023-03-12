@@ -15,4 +15,4 @@
 (6h) Einarbeiten ins CMS.
 
 ## 13.03.2023
-(1h) Mail an Dr. Risen für Testdaten
+(1h) Erste Gedanken am Testingverfahren
