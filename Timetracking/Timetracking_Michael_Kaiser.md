@@ -22,3 +22,7 @@
 
 ## 11.03.2023
 7h Arbeit am Server (Installation auf Uni Server und Versuch an Tasks) Versuch der Behebung von Bugs zur isolate Library. 
+
+## 12.3.2023
+2.5h Einrichten des Servers und Korrektur diverser Fehler in den Files
+1h Erstellen der Doku für Deployment und Einrichten mit allen dependencys und anpassungen. 
