@@ -12,7 +12,9 @@ Alle Team-Mitglieder konnten sich einen ersten Überblick des CMS Projekt erarbe
 Das Contest Management System wurde lokal aufgesetzt und die Dependencies, konnten aktualisiert werden. 
 Damit wurde der Task "Einlesen ins CMS" erfolgreich erledigt. 
 
-Der Task "Server initialisation" wurde...
+Der Task "Server initialisation" wurde erfolgreich abgeschlossen. Das CMS läuft auf dem Server der Universität, 
+und die Anforderung des Kunden für die erste Iteration sind somit erfüllt.
+
 
 
 
